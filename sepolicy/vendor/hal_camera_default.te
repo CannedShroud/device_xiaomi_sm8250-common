@@ -1,3 +1,6 @@
+type camera_persist_file, file_type;
+
+
 # For interfacing with PowerHAL
 hal_client_domain(hal_camera_default, hal_power)
 

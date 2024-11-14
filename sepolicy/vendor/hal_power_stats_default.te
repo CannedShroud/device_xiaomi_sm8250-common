@@ -1,2 +1,4 @@
+type vendor_sysfs_iio, sysfs_type, fs_type;
+
 allow hal_power_stats_default vendor_sysfs_iio:dir r_dir_perms;
 allow hal_power_stats_default vendor_sysfs_iio:file r_file_perms;
