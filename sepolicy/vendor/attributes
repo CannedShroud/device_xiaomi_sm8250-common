@@ -1,3 +1,8 @@
+# Displayfeature
+attribute vendor_hal_displayfeature_xiaomi;
+attribute vendor_hal_displayfeature_xiaomi_client;
+attribute vendor_hal_displayfeature_xiaomi_server;
+
 # HALs
 attribute hal_dms;
 attribute hal_dms_client;
